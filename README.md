@@ -2,4 +2,4 @@
 using linear regression to determine prices of houses based on house size
 
 #snapshot
-![Screenshot](Figure1.png)
+![Screenshot]('Figure1.png')
